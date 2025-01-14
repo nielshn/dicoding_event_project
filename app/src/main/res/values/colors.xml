@@ -1,0 +1,23 @@
+<resources>
+    <!-- Soft, Colorful Palette -->
+    <color name="softPurple">#E4D0F6</color> <!-- Soft purple for accent elements -->
+    <color name="softBlue">#CE286ADF</color> <!-- Soft blue for buttons and call-to-action -->
+    <color name="softGreen">#3EC140</color> <!-- Soft green for success indicators -->
+    <color name="softPink">#F8BBD0</color> <!-- Soft pink for highlights or accents -->
+    <color name="softOrange">#FFE0B2</color>
+
+
+    <!-- Text Colors -->
+    <color name="primaryTextColor">#333333</color> <!-- Dark color for main text -->
+    <color name="secondaryTextColor">#757575</color> <!-- Lighter color for secondary text -->
+
+    <!-- Background Colors -->
+    <color name="white">#FFFFFF</color> <!-- Main background color for the app -->
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="placeholder">#6FB6B6B6</color>
+
+    <!-- Additional Color for Links or CTA -->
+    <color name="accentColor">#64B5F6</color>
+    <color name="grey">#808080</color>
+    <color name="light_grey">#D3D3D3</color>
+</resources>

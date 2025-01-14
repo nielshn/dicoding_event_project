@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.DicodingEvent" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/softBlue</item>
+        <item name="colorPrimaryVariant">@color/softPurple</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/softGreen</item>
+        <item name="colorOnSecondary">@color/primaryTextColor</item>
+
+        <!-- Accent color for links or CTA -->
+        <item name="colorAccent">@color/accentColor</item>
+
+        <!-- Background colors. -->
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Text colors. -->
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:textColorSecondary">@color/secondaryTextColor</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
